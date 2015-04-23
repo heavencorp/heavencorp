@@ -1,0 +1,45 @@
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1428767781526">
+  <folder name="css">
+    <file name="site_global.css" crc="4150144447"/>
+    <file name="master_interior.css" crc="291844866" ref="menu:contact:gallery"/>
+    <file name="master_main.css" crc="484074267" ref="menu:contact:gallery:index"/>
+    <file name="menu.css" crc="144418931" ref="menu"/>
+    <file name="contact.css" crc="4267662246" ref="contact"/>
+    <file name="iefonts_contact.css" crc="51609125" ref="contact"/>
+    <file name="gallery.css" crc="144418931" ref="gallery"/>
+    <file name="index.css" crc="4000486479" ref="index"/>
+    <file name="iefonts_index.css" crc="383820624" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:contact:gallery:menu"/>
+    <file name="museutils.js" crc="521960461" ref="index:contact:gallery:menu"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="index:contact:gallery:menu"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index:contact:gallery:menu"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:gallery:menu"/>
+    <file name="webpro.js" crc="220831917" ref="contact"/>
+    <file name="form_check.php" crc="218543696" ref="contact"/>
+    <file name="form_throttle.php" crc="3988545917" ref="contact"/>
+    <file name="form_process.php" crc="4264751530" ref="contact"/>
+    <file name="form-u419.php" crc="270599635" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="img-hero-salad.jpg" crc="106093649" ref="index"/>
+    <file name="logo-landing.png" crc="3765472626" ref="index"/>
+    <file name="img-baking.jpg" crc="3997507155" ref="index"/>
+    <file name="img-dinner.jpg" crc="329183304" ref="index"/>
+    <file name="img-drinks.jpg" crc="3922149720" ref="index"/>
+    <file name="banner-normal.png" crc="497791043" ref="index"/>
+    <file name="banner-hover.png" crc="422864924" ref="index"/>
+    <file name="banner-down.png" crc="422864924" ref="index"/>
+    <file name="logo-interior-crop-u149.png" crc="4199297228" ref="contact:gallery:menu"/>
+    <file name="u424-17.png" crc="339615781" ref="contact"/>
+    <file name="u424-17-r.png" crc="3972775235" ref="contact"/>
+    <file name="u424-17-m.png" crc="3972775235" ref="contact"/>
+    <file name="u424-17-fs.png" crc="345197156" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="4056330462" mt="1428763663408" redirect="true"/>
+  <file name="contact.html" crc="193509200" mt="1428763663564" redirect="true"/>
+  <file name="gallery.html" crc="3831368710" mt="1428763663564" redirect="true"/>
+  <file name="menu.html" crc="437708771" mt="1428763663564" redirect="true"/>
+</manifest>
