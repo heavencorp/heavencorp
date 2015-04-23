@@ -1,11 +1,11 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1429815341404">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1429817187286">
   <folder name="css">
     <file name="site_global.css" crc="355536678"/>
     <file name="master_a-master.css" crc="3976435407" ref="музыка:галерея:текст:контакты"/>
     <file name="master________.css" crc="4284097063" ref="index"/>
     <file name="______.css" crc="521645279" ref="музыка"/>
     <file name="_______.css" crc="3961912609" ref="галерея"/>
-    <file name="_____.css" crc="125093219" ref="текст"/>
+    <file name="_____.css" crc="4033172760" ref="текст"/>
     <file name="index.css" crc="328681406" ref="index"/>
     <file name="________.css" crc="507400841" ref="контакты"/>
   </folder>
@@ -13,7 +13,7 @@
     <file name="jquery-1.8.3.min.js" crc="3880902115" ref="phone>index:phone>текст:phone>галерея:phone>музыка:phone>контакты:контакты:музыка:галерея:текст:index"/>
     <file name="museutils.js" crc="521960461" ref="phone>index:phone>текст:phone>галерея:phone>музыка:phone>контакты:контакты:музыка:галерея:текст:index"/>
     <file name="jquery.watch.js" crc="56779320" ref="phone>index:phone>текст:phone>галерея:phone>музыка:phone>контакты:контакты:музыка:галерея:текст:index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="контакты:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="контакты:index:текст"/>
     <file name="jquery.musemenu.js" crc="397543671" ref="контакты:музыка:галерея:текст:index"/>
     <file name="webpro.js" crc="220831917" ref="контакты:галерея"/>
     <file name="form_check.php" crc="218543696" ref="контакты"/>
@@ -27,7 +27,7 @@
     <file name="pie.js" crc="3827607177" ref="текст:index"/>
   </folder>
   <folder name="images">
-    <file name="2cfb1bb8-7a81-4141-9e11-00cbbe94d38e.png" crc="4181332934" ref="контакты:index"/>
+    <file name="2cfb1bb8-7a81-4141-9e11-00cbbe94d38e.png" crc="4181332934" ref="контакты:index:текст"/>
     <file name="u531-17.png" crc="4280907729" ref="контакты"/>
     <file name="u531-17-r.png" crc="232251311" ref="контакты"/>
     <file name="u531-17-m.png" crc="464347232" ref="контакты"/>
@@ -66,6 +66,6 @@
   <file name="контакты.html" crc="4011315135" mt="1428869563100" redirect="true"/>
   <file name="музыка.html" crc="4195143475" mt="1428869526887" redirect="true"/>
   <file name="галерея.html" crc="437750409" mt="1428869526887" redirect="true"/>
-  <file name="текст.html" crc="182878021" mt="1428869526887" redirect="true"/>
+  <file name="текст.html" crc="304460704" mt="1429816804870" redirect="true"/>
   <file name="index.html" crc="184716295" mt="1428869526887" redirect="true"/>
 </manifest>
