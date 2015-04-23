@@ -1,45 +1,71 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1428767781526">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1429815341404">
   <folder name="css">
-    <file name="site_global.css" crc="4150144447"/>
-    <file name="master_interior.css" crc="291844866" ref="menu:contact:gallery"/>
-    <file name="master_main.css" crc="484074267" ref="menu:contact:gallery:index"/>
-    <file name="menu.css" crc="144418931" ref="menu"/>
-    <file name="contact.css" crc="4267662246" ref="contact"/>
-    <file name="iefonts_contact.css" crc="51609125" ref="contact"/>
-    <file name="gallery.css" crc="144418931" ref="gallery"/>
-    <file name="index.css" crc="4000486479" ref="index"/>
-    <file name="iefonts_index.css" crc="383820624" ref="index"/>
+    <file name="site_global.css" crc="355536678"/>
+    <file name="master_a-master.css" crc="3976435407" ref="музыка:галерея:текст:контакты"/>
+    <file name="master________.css" crc="4284097063" ref="index"/>
+    <file name="______.css" crc="521645279" ref="музыка"/>
+    <file name="_______.css" crc="3961912609" ref="галерея"/>
+    <file name="_____.css" crc="125093219" ref="текст"/>
+    <file name="index.css" crc="328681406" ref="index"/>
+    <file name="________.css" crc="507400841" ref="контакты"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:contact:gallery:menu"/>
-    <file name="museutils.js" crc="521960461" ref="index:contact:gallery:menu"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index"/>
-    <file name="jquery.musemenu.js" crc="397543671" ref="index:contact:gallery:menu"/>
-    <file name="jquery.watch.js" crc="56779320" ref="index:contact:gallery:menu"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:contact:gallery:menu"/>
-    <file name="webpro.js" crc="220831917" ref="contact"/>
-    <file name="form_check.php" crc="218543696" ref="contact"/>
-    <file name="form_throttle.php" crc="3988545917" ref="contact"/>
-    <file name="form_process.php" crc="4264751530" ref="contact"/>
-    <file name="form-u419.php" crc="270599635" ref="contact"/>
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="phone>index:phone>текст:phone>галерея:phone>музыка:phone>контакты:контакты:музыка:галерея:текст:index"/>
+    <file name="museutils.js" crc="521960461" ref="phone>index:phone>текст:phone>галерея:phone>музыка:phone>контакты:контакты:музыка:галерея:текст:index"/>
+    <file name="jquery.watch.js" crc="56779320" ref="phone>index:phone>текст:phone>галерея:phone>музыка:phone>контакты:контакты:музыка:галерея:текст:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="контакты:index"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="контакты:музыка:галерея:текст:index"/>
+    <file name="webpro.js" crc="220831917" ref="контакты:галерея"/>
+    <file name="form_check.php" crc="218543696" ref="контакты"/>
+    <file name="form_throttle.php" crc="3988545917" ref="контакты"/>
+    <file name="form_process.php" crc="4264751530" ref="контакты"/>
+    <file name="form-u525.php" crc="162537196" ref="контакты"/>
+    <file name="html5shiv.js" crc="4241844378" ref="контакты:музыка:галерея:текст:index"/>
+    <file name="musewpslideshow.js" crc="224651946" ref="галерея"/>
+    <file name="jquery.museoverlay.js" crc="276313855" ref="галерея"/>
+    <file name="touchswipe.js" crc="325405309" ref="галерея"/>
+    <file name="pie.js" crc="3827607177" ref="текст:index"/>
   </folder>
   <folder name="images">
-    <file name="img-hero-salad.jpg" crc="106093649" ref="index"/>
-    <file name="logo-landing.png" crc="3765472626" ref="index"/>
-    <file name="img-baking.jpg" crc="3997507155" ref="index"/>
-    <file name="img-dinner.jpg" crc="329183304" ref="index"/>
-    <file name="img-drinks.jpg" crc="3922149720" ref="index"/>
-    <file name="banner-normal.png" crc="497791043" ref="index"/>
-    <file name="banner-hover.png" crc="422864924" ref="index"/>
-    <file name="banner-down.png" crc="422864924" ref="index"/>
-    <file name="logo-interior-crop-u149.png" crc="4199297228" ref="contact:gallery:menu"/>
-    <file name="u424-17.png" crc="339615781" ref="contact"/>
-    <file name="u424-17-r.png" crc="3972775235" ref="contact"/>
-    <file name="u424-17-m.png" crc="3972775235" ref="contact"/>
-    <file name="u424-17-fs.png" crc="345197156" ref="contact"/>
+    <file name="2cfb1bb8-7a81-4141-9e11-00cbbe94d38e.png" crc="4181332934" ref="контакты:index"/>
+    <file name="u531-17.png" crc="4280907729" ref="контакты"/>
+    <file name="u531-17-r.png" crc="232251311" ref="контакты"/>
+    <file name="u531-17-m.png" crc="464347232" ref="контакты"/>
+    <file name="u531-17-fs.png" crc="4134830059" ref="контакты"/>
+    <file name="2012-04-17-prometheus-joy.jpg" crc="3841065374" ref="галерея"/>
+    <file name="blank.gif" crc="4208392903" ref="галерея"/>
+    <file name="125314_original.jpg" crc="120300383" ref="галерея"/>
+    <file name="david.jpg" crc="486886903" ref="галерея"/>
+    <file name="kinopoiskru-dredd-1897822.jpg" crc="3806408142" ref="галерея"/>
+    <file name="kinopoiskru-prometheus-1894163.jpg" crc="466439147" ref="галерея"/>
+    <file name="trailer24547.jpg" crc="429631693" ref="галерея"/>
+    <file name="2012-04-17-prometheus-joy75x45.jpg" crc="3890421765" ref="галерея"/>
+    <file name="125314_original-crop-u771.jpg" crc="4098887304" ref="галерея"/>
+    <file name="david68x45.jpg" crc="26271748" ref="галерея"/>
+    <file name="kinopoiskru-dredd-1897822-crop-u789.jpg" crc="3945968467" ref="галерея"/>
+    <file name="kinopoiskru-prometheus-189416374x45.jpg" crc="4503632" ref="галерея"/>
+    <file name="trailer24547-crop-u807.jpg" crc="3804311647" ref="галерея"/>
+    <file name="loading.gif" crc="3815509949" ref="галерея"/>
+    <file name="bg_pic500-crop-u396.jpg" crc="528002016" ref="index"/>
+    <file name="bg_pic3500-crop-u402.jpg" crc="186995577" ref="index"/>
   </folder>
-  <file name="index.html" crc="4056330462" mt="1428763663408" redirect="true"/>
-  <file name="contact.html" crc="193509200" mt="1428763663564" redirect="true"/>
-  <file name="gallery.html" crc="3831368710" mt="1428763663564" redirect="true"/>
-  <file name="menu.html" crc="437708771" mt="1428763663564" redirect="true"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="______.css" crc="4107295331" ref="phone>музыка"/>
+      <file name="_______.css" crc="4107295331" ref="phone>галерея"/>
+      <file name="________.css" crc="4107295331" ref="phone>контакты"/>
+      <file name="_____.css" crc="4107295331" ref="phone>текст"/>
+      <file name="index.css" crc="4107295331" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3982738340" mt="1428856092684" redirect="false"/>
+    <file name="текст.html" crc="4023493152" mt="1428856094232" redirect="false"/>
+    <file name="галерея.html" crc="192218021" mt="1428856094323" redirect="false"/>
+    <file name="музыка.html" crc="32361924" mt="1428856094433" redirect="false"/>
+    <file name="контакты.html" crc="4234835550" mt="1428856094539" redirect="false"/>
+  </folder>
+  <file name="контакты.html" crc="4011315135" mt="1428869563100" redirect="true"/>
+  <file name="музыка.html" crc="4195143475" mt="1428869526887" redirect="true"/>
+  <file name="галерея.html" crc="437750409" mt="1428869526887" redirect="true"/>
+  <file name="текст.html" crc="182878021" mt="1428869526887" redirect="true"/>
+  <file name="index.html" crc="184716295" mt="1428869526887" redirect="true"/>
 </manifest>
